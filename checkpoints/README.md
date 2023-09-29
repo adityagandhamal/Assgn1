@@ -1,0 +1,1 @@
+This folder should contain any .pth file pertaining to the weights of the pre-trained model (e.g. `wav2lip_gan.pth`)
