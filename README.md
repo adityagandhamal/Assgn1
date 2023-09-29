@@ -25,7 +25,7 @@
    
 3. run `cd Assgn1`
    
-4. run `pip install -r requirements.txt` [_Note:_ Go on installing each package if the process gets stuck (happens usually while building dependency wheels)]
+4. run `pip install -r requirements.txt` [_Note:_ _Go on installing each package if the process gets stuck (happens usually while building dependency wheels)_]
    
 5. Download the face detection [model](https://www.adrianbulat.com/downloads/python-fan/s3fd-619a316812.pth) and place it in `face_detection/detection/sfd/` as `s3fd.pth`
     
