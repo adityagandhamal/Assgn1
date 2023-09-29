@@ -21,19 +21,21 @@
 
 1. Create a virual environment `conda create --name listed_1 python=3.6`
    
-2. Clone the repo `git clone https://github.com/adityagandhamal/Assgn1.git`
+2. Activate the environment `conda activate listed_1`
+  
+3. Clone the repo `git clone https://github.com/adityagandhamal/Assgn1.git`
    
-3. run `cd Assgn1`
+4. run `cd Assgn1`
    
-4. run `pip install -r requirements.txt` [_Note:_ _Go on installing each package if the process gets stuck (happens usually while building dependency wheels)_]
+5. run `pip install -r requirements.txt` [_Note:_ _Go on installing each package if the process gets stuck (happens usually while building dependency wheels)_]
    
-5. Download the face detection [model](https://www.adrianbulat.com/downloads/python-fan/s3fd-619a316812.pth) and place it in `face_detection/detection/sfd/` as `s3fd.pth`
+6. Download the face detection [model](https://www.adrianbulat.com/downloads/python-fan/s3fd-619a316812.pth) and place it in `face_detection/detection/sfd/` as `s3fd.pth`
     
-6. Download the weights of the pre-trained model [Wav2Lip + GAN](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/radrabha_m_research_iiit_ac_in/EdjI7bZlgApMqsVoEUUXpLsBxqXbn5z8VTmoxp55YNDcIA?e=n9ljGW) and place the file in `checkpoints`
+7. Download the weights of the pre-trained model [Wav2Lip + GAN](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/radrabha_m_research_iiit_ac_in/EdjI7bZlgApMqsVoEUUXpLsBxqXbn5z8VTmoxp55YNDcIA?e=n9ljGW) and place the file in `checkpoints`
     
-7. Run `python sync.py`
+8. Run `python sync.py`
     
-8. You'll obtain an output `listed_out.mp4`
+9. You'll obtain an output `listed_out.mp4`
 
 ## Sample Input and Output
 
