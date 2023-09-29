@@ -37,7 +37,7 @@
 
 ## Sample Input and Output
 
-### Input Vidoe
+### Input Video
 https://github.com/adityagandhamal/Assgn1/assets/61016383/4e130cfb-0ca0-4b1a-a213-49f23665d60b
 
 ### Target Audio
