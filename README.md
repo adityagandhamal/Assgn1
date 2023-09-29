@@ -10,7 +10,7 @@
    
  - `models` - SOTA model for the lipsync task **Wav2Lip** (ref. https://github.com/Rudrabha/Wav2Lip)
    
- - `requiremnts.txt` - packages pinned to be installed
+ - `requirements.txt` - packages pinned to be installed
    
  - `sync.py` - the actual Python script to be run by the end-user
    
