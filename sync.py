@@ -100,7 +100,7 @@ video_path = "data_files/vid_trim.mp4"
 audio_path = "data_files/audio_trim.wav"
 chk = "checkpoints/wav2lip_gan.pth"
 device = device
-out = "sol_out.mp4"
+out = "listed_out.mp4"
 
 main(video_path, audio_path, chk, device, out)
     
