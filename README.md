@@ -19,7 +19,7 @@
 
 ## Steps to follow (Recommend using a UNIX with a conda environment)
 
-1. Creta a virual environment `conda create --name listed_1 python=3.6`
+1. Create a virual environment `conda create --name listed_1 python=3.6`
    
 2. Clone the repo `git clone https://github.com/adityagandhamal/Assgn1.git`
    
