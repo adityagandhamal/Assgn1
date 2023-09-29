@@ -50,7 +50,7 @@ https://github.com/adityagandhamal/Assgn1/assets/61016383/03f26811-9ecc-46b4-b8e
 
 The sample above is just a demo to get a notion of the task while the actual output video has been attached as a drive link in the mail. Keeping in mind the limitations of the pre-trained model and the scope of the input video (as the subject is seen to be disappearing from the scene frequently), the video and the audio are both trimmed using a third-party website. 
 
-Also, Make sure to run the code on a GPU instance as the process is killed on a CPU. The following attached is the proof of the same.
+Also, make sure to run the code on a GPU instance as the process is **killed** on a CPU. The following attached is the proof of the same.
 
 ![Screenshot (1392)](https://github.com/adityagandhamal/Assgn1/assets/61016383/47f01bd7-ce8a-480b-a811-ebb9910541eb)
 
