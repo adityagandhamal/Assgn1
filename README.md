@@ -47,11 +47,15 @@ https://github.com/adityagandhamal/Assgn1/assets/61016383/fbfc890b-95b5-4be4-b08
 https://github.com/adityagandhamal/Assgn1/assets/61016383/03f26811-9ecc-46b4-b8e4-24f7c0f6064c
 
 # Disclaimer:
-The sample above is just a demo to get a notion of the task while the actual output video has been attached as a drive link in the mail. Keeping in mind the limitations of the pre-trained model and the scope of the input video (as the subject is seen to be disappearing from the scene frequently), the video and the audio are both trimmed using a third-party website. Make sure to run the program on a GPU runtime as the process is killed on a CPU. The following attached is the proof of the same.
+
+The sample above is just a demo to get a notion of the task while the actual output video has been attached as a drive link in the mail. Keeping in mind the limitations of the pre-trained model and the scope of the input video (as the subject is seen to be disappearing from the scene frequently), the video and the audio are both trimmed using a third-party website. 
+
+Also, Make sure to run the code on a GPU instance as the process is killed on a CPU. The following attached is the proof of the same.
+
 ![Screenshot (1392)](https://github.com/adityagandhamal/Assgn1/assets/61016383/47f01bd7-ce8a-480b-a811-ebb9910541eb)
 
 
-Hence, the code is run in a [Colab Notebook](https://colab.research.google.com/drive/17v70lBAieKJFh_1ShkyKI2pcJ_dTeVBl?usp=sharing)
+#### Hence, the code is run in a [Colab Notebook](https://colab.research.google.com/drive/17v70lBAieKJFh_1ShkyKI2pcJ_dTeVBl?usp=sharing)
 
 
 
